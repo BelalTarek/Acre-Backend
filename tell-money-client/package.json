@@ -1,0 +1,25 @@
+{
+  "name": "tell-money-client",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "./dist/index.js",
+  "scripts": {
+    "build:package": "tsc --project ./tsconfig.json",
+    "build:watch": "tsc --watch --project ./tsconfig.json"
+  },
+  "directories": {},
+  "types": "./src/index.ts",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.2",
+    "lodash": "^4.17.21",
+    "qs": "^6.11.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}

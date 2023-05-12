@@ -1,0 +1,1 @@
+{"version":3,"file":"getAccountBalanceSchema.js","sourceRoot":"","sources":["../../../src/validation/getAccountBalanceSchema.ts"],"names":[],"mappings":";;;AAGa,QAAA,uBAAuB,GAAW;IAE7C,SAAS,EAAE;QACT,OAAO,EAAE;YACP,YAAY,EAAE,iBAAiB;YAC/B,OAAO,EAAE,IAAI;SACd;KACF;CAEF,CAAC"}

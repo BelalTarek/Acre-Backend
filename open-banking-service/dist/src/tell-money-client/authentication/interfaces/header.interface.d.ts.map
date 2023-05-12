@@ -1,0 +1,1 @@
+{"version":3,"file":"header.interface.d.ts","sourceRoot":"","sources":["../../../../../src/tell-money-client/authentication/interfaces/header.interface.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,aAAa;IAC5B,MAAM,EAAE,MAAM,CAAC;IACf,SAAS,EAAE,MAAM,CAAC;CACnB;AAED,MAAM,WAAW,cAAc;IAC7B,KAAK,EAAE,MAAM,CAAC;CACf"}

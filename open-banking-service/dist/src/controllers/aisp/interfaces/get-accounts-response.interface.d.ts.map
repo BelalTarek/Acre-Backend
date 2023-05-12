@@ -1,0 +1,1 @@
+{"version":3,"file":"get-accounts-response.interface.d.ts","sourceRoot":"","sources":["../../../../../src/controllers/aisp/interfaces/get-accounts-response.interface.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAG,MAAM,qBAAqB,CAAC;AAGrD,MAAM,WAAW,mBAAmB;IAClC,QAAQ,EAAE,QAAQ,EAAE,CAAC;CACtB"}

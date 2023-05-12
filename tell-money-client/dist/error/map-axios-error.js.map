@@ -1,0 +1,1 @@
+{"version":3,"file":"map-axios-error.js","sourceRoot":"","sources":["../../src/error/map-axios-error.ts"],"names":[],"mappings":";;;AAAA,+CAA4C;AAQrC,MAAM,aAAa,GAAG,CAAC,KAA4C,EAA2B,EAAE;;IACtG,OAAA,IAAA,wBAAU,EACT,MAAA,KAAK,CAAC,QAAQ,0CAAE,MAAM,EACtB,MAAA,KAAK,CAAC,QAAQ,0CAAE,UAAU,EAC1B,MAAA,KAAK,CAAC,QAAQ,0CAAE,IAAI,CAAC,KAAK,CAC3B,CAAA;CAAA,CAAC;AALW,QAAA,aAAa,iBAKxB"}

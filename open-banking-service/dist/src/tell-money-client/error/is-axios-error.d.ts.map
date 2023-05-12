@@ -1,0 +1,1 @@
+{"version":3,"file":"is-axios-error.d.ts","sourceRoot":"","sources":["../../../../src/tell-money-client/error/is-axios-error.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,UAAU,EAAG,MAAM,OAAO,CAAC;AAEpC,OAAO,KAAK,EAAE,yBAAyB,EAAG,MAAM,iCAAiC,CAAC;AAGlF,eAAO,MAAM,YAAY,UAAW,WAAW,yBAAyB,CAAC,GAAG,OAAO,wDAA6G,CAAC"}

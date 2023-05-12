@@ -1,0 +1,1 @@
+{"version":3,"file":"get-payment-request.interface.d.ts","sourceRoot":"","sources":["../../../src/interfaces/get-payment-request.interface.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAG,MAAM,iCAAiC,CAAC;AAGnE,MAAM,WAAW,iBAAiB;IAChC,IAAI,EAAE,UAAU,CAAC;IACjB,IAAI,EAAE;QACJ,gBAAgB,EAAE,MAAM,CAAC;KAC1B,CAAC;CACH"}

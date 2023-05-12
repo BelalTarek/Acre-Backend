@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "strictPropertyInitialization": false
+  },
+  "include": [
+    "src",
+    ".env",
+  ],
+  "exclude": [
+    "node_modules",
+    "**/node_modules",
+    "dist",
+    "*.spec.ts",
+    "*.mock.ts"
+  ]
+}

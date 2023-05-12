@@ -1,0 +1,1 @@
+declare module 'plutus-middlewares';

@@ -1,0 +1,1 @@
+{"version":3,"file":"get-funds-confirmation-response.interface.js","sourceRoot":"","sources":["../../../src/interfaces/get-funds-confirmation-response.interface.ts"],"names":[],"mappings":";;;AAGA,MAAa,4BAA4B;IACvC,YAAY,MAAc,EAAE,IAA2B;QACrD,IAAI,CAAC,cAAc,GAAG,MAAM,CAAC,MAAM,CAAC,IAAI,MAAM,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IAC/D,CAAC;CAGF;AAND,oEAMC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"get-balance-response.interface.js","sourceRoot":"","sources":["../../../src/interfaces/get-balance-response.interface.ts"],"names":[],"mappings":";;;AAEA,MAAa,kBAAkB;IAC7B,YAAY,IAA2B;QACrC,IAAI,CAAC,QAAQ,GAAG,IAAI,CAAC,QAAQ,CAAC;QAC9B,IAAI,CAAC,MAAM,GAAG,IAAI,CAAC,OAAO,CAAC;QAC3B,IAAI,CAAC,WAAW,GAAG,OAAO,CAAC;IAC7B,CAAC;CAKF;AAVD,gDAUC"}

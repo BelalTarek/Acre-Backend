@@ -1,0 +1,1 @@
+{"version":3,"file":"get-account-request.interface.d.ts","sourceRoot":"","sources":["../../../../../src/controllers/aisp/interfaces/get-account-request.interface.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAG,MAAM,iCAAiC,CAAC;AAGnE,MAAM,WAAW,kBAAkB;IACjC,IAAI,EAAE,UAAU,CAAC;IACjB,IAAI,EAAE;QACJ,SAAS,EAAE,MAAM,CAAC;KACnB,CAAC;CACH"}

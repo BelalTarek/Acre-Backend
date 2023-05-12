@@ -1,0 +1,1 @@
+{"version":3,"file":"account.interface.d.ts","sourceRoot":"","sources":["../../../../../src/controllers/aisp/interfaces/account.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,QAAQ;IACvB,SAAS,EAAE,MAAM,CAAC;IAClB,QAAQ,EAAE,MAAM,CAAC;IACjB,WAAW,EAAE,MAAM,CAAC;IACpB,cAAc,EAAE,MAAM,CAAC;IACvB,QAAQ,EAAE,MAAM,CAAC;IACjB,cAAc,EAAE,MAAM,CAAC;IACvB,UAAU,EAAE,MAAM,CAAC;CAEpB"}
